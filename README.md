@@ -1,5 +1,5 @@
-# Tax_Optimization
-This code is a C++ program for performing portfolio optimization based on expected returns, a covariance matrix, and a tax rate. It calculates the optimal weights for a portfolio of assets, considering a linear optimization problem with equality constraints.
+# portfolio_Optimization
+This code is a C++ program for optimizing portfolios based on expected returns, a covariance matrix, and a tax rate. It calculates the optimal weights for a portfolio of assets, considering a linear optimization problem with equality constraints.
 
 ## Introduction
 Portfolio optimization is a crucial part of investment management, where the goal is to construct a portfolio of assets that maximizes returns or minimizes risk based on various constraints. This code demonstrates a simple example of portfolio optimization for a set of assets.
